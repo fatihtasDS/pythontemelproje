@@ -1,0 +1,2 @@
+# pythontemelproje
+www.patika.dev
